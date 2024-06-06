@@ -1,6 +1,11 @@
 # car_sales-data-analysis
-Background: Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
-Objective: The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+Background:
+Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
+Objective:
+The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMmNhNzg4NmUtZTJkNi00ZGMyLWI5NGYtNjA4OWI1NzkyOTE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Video Presentation Link : https://youtu.be/o_dj7h9IKJc
+
 Problem Statement 1: KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 1.	Sales Overview:
@@ -27,7 +32,8 @@ Problem Statement 2: Charts Requirement
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
-Functionalities learned and applied :
+Functionalities learned and applied 
+
 1.Connecting to Excel File
 2.Data Cleaning
 3.Data modelling
